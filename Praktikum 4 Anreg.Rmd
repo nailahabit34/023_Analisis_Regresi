@@ -1,6 +1,6 @@
 ---
 title: "Praktikum 4 Anreg"
-author: "Helmi Falah & Cameliya Ulya"
+author: "Nailah Afia Tsabita"
 date: "`r Sys.Date()`"
 output: 
   rmdformats::readthedown
