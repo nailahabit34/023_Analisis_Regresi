@@ -1,6 +1,6 @@
 ---
 title: "Praktikum 6 Anreg"
-author: "Helmi Falah & Cameliya Ulya"
+author: "Nailah Afia Tsabita"
 date: "`r Sys.Date()`"
 output: 
   rmdformats::readthedown
@@ -22,7 +22,7 @@ library(olsrr) # untuk pemeriksaan amatan tidak biasa
 Data
 
 ```{r}
-dt <- read_xlsx("C:\\Users\\Helmi Falah\\Documents\\Anreg Prak\\Data6.xlsx")
+dt <- read_xlsx("C:\\Users\\Abit\\Documents\\KULIAH SMT 4\\ANREG\\Data6.xlsx")
 dt # menampilkan data
 ```
 
