@@ -1,6 +1,6 @@
 ---
 title: "Praktikum 8 Analisis Regresi"
-author: "Helmi Falah & Cameliya Ulya"
+author: "Nailah Afia Tsabita"
 date: "`r Sys.Date()`"
 output:
   rmdformats::readthedown
@@ -71,7 +71,7 @@ Variabel hp berpengaruh signifikan terhadap mpg setelah mengontrol wt dan disp (
 Data yang digunakan memiliki 29 amatan berupa Kabupaten/Kota di Papua dengan 1 peubah respon yaitu persentase penduduk miskin (PPM) dan 5 peubah penjelas, yaitu luas daerah (LD), angka harapan hidup (AHH), produk domestik regional bruto (PDRB), gaji bersih standar (GBS), dan laju pertumbuhan penduduk (LPD).
 
 ```{r}
-data <- read_xlsx("C:\\Users\\Abit\\Documents\\KULIAH SMT 4\\data anreg P8.xlsx")
+data <- read_xlsx("C:\\Users\\Abit\\Documents\\KULIAH SMT 4\\ANREG\\data anreg P8.xlsx")
 data
 ```
 
